@@ -47,34 +47,6 @@
 
 ---
 
-<!-- =========================
-     HIGHLIGHTS
-========================= -->
-
-## 🏆 Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="250">
-  <h3>🎤 TEDx Productions</h3>
-  <p>Managed production responsibilities for TEDx events.</p>
-</td>
-<td align="center" width="250">
-  <h3>🤖 ACM SIGAI</h3>
-  <p>Community management and engagement for 800+ members.</p>
-</td>
-<td align="center" width="250">
-  <h3>🧭 Leadership</h3>
-  <p>Secretary at MUJ ACM SIGAI Student Chapter.</p>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <!-- =========================
      TECH STACK
@@ -184,13 +156,13 @@ A short, impactful description of your project.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/itsabhaysingh/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:abhay.s.suryavanshi02@gmail.com">
   <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="[https://github.com/itsabhaysingh07)">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
