@@ -118,22 +118,50 @@ A short, impactful description of your project.
 
 ---
 
-<!-- =========================
-     GITHUB STATS
-========================= -->
+<!-- ================= STATS (REVAMPED) ================= -->
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<!-- Main Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8" />
+
+<!-- Top Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<!-- Streak -->
+<img width="60%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
+
 </div>
 
 ---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsabhaysingh07&theme=tokyo-night&bg_color=00000000&color=60A5FA&line=60A5FA&point=94A3B8&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ================= TROPHIES ================= -->
+
+## 📈 Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsabhaysingh07&theme=tokyo-night&bg_color=00000000&hide_border=true" />
+
+</div>
 
 <!-- =========================
      ACHIEVEMENTS
