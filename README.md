@@ -156,7 +156,7 @@ A short, impactful description of your project.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/itsabhaysingh/">
+<a href="https://www.linkedin.com/in/itsabhaysingh/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:abhay.s.suryavanshi02@gmail.com">
