@@ -147,11 +147,12 @@ A short, impactful description of your project.
 
 <!-- ================= ACTIVITY GRAPH ================= -->
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsabhaysingh07&theme=tokyo-night&bg_color=00000000&color=60A5FA&line=60A5FA&point=94A3B8&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsabhaysingh07&theme=tokyo-night&bg_color=0d1117&color=60A5FA&line=60A5FA&point=94A3B8&hide_border=true" />
 
 </div>
 
