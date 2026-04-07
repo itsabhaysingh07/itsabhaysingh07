@@ -159,7 +159,7 @@ A short, impactful description of your project.
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=https://open.spotify.com/user/31t2zry3ztwuhc62jf7dzhl24ssa?si=70131bba4c6f402a&cover_image=true&theme=novatorem&bar_color=60A5FA&bar_color_cover=false" />
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31t2zry3ztwuhc62jf7dzhl24ssa&cover_image=true&theme=novatorem&show_offline=true&background_color=00000000&interchange=false&profanity=false&bar_color=60A5FA&bar_color_cover=false)](https://open.spotify.com/user/31t2zry3ztwuhc62jf7dzhl24ssa)
 
 </div>
 
