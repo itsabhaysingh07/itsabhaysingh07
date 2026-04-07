@@ -62,11 +62,16 @@
 
 </div>
 
-### Currently learning
-<p>
-  <img src="https://img.shields.io/badge/Product%20Management-111827?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-0f172a?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Consulting-1d4ed8?style=for-the-badge&logo=microsoft&logoColor=white" />
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Project%2FProduct%20Management-1d4ed8?style=for-the-badge&logo=notion&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/DSA-1d4ed8?style=for-the-badge&logo=leetcode&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Consulting-1d4ed8?style=for-the-badge&logo=databricks&logoColor=white" />
+
 </p>
 
 ---
@@ -124,18 +129,17 @@ A short, impactful description of your project.
 
 <div align="center">
 
-<!-- Main Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsabhaysingh07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsabhaysingh07&show_icons=true&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8" />
 
-<!-- Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhaysingh07&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsabhaysingh07&layout=compact&theme=tokyonight&hide_border=true&title_color=60A5FA&text_color=94A3B8" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<!-- Streak -->
-<img width="60%" src="https://streak-stats.demolab.com?user=itsabhaysingh07&theme=tokyonight&hide_border=true&background=00000000&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
+<img width="70%" src="https://streak-stats.demolab.com?user=itsabhaysingh07&theme=tokyonight&hide_border=true&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
 
 </div>
 
