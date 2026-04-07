@@ -76,52 +76,7 @@
 
 ---
 
-<!-- =========================
-     PROJECTS
-========================= -->
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Project One
-A short, impactful description of your project.  
-`Tech:` React · Node · API
-
-</td>
-<td width="50%">
-
-### 🌟 Project Two
-A short, impactful description of your project.  
-`Tech:` Python · Flask · SQL
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌟 Project Three
-A short, impactful description of your project.  
-`Tech:` C++ · DSA · Algorithms
-
-</td>
-<td width="50%">
-
-### 🌟 Project Four
-A short, impactful description of your project.  
-`Tech:` HTML · CSS · JavaScript
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <!-- ================= STATS (REVAMPED) ================= -->
 
