@@ -155,11 +155,11 @@ A short, impactful description of your project.
 
 ## 🎧 Currently Vibing
 
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31t2zry3ztwuhc62jf7dzhl24ssa&cover_image=true&theme=novatorem&show_offline=false&background_color=00000000&interchange=true&profanity=false&bar_color=60A5FA&bar_color_cover=false)](https://open.spotify.com/user/31t2zry3ztwuhc62jf7dzhl24ssa)
-
-</div>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t2zry3ztwuhc62jf7dzhl24ssa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
 
 ## 🏅 Leadership & Experience
 
