@@ -125,17 +125,17 @@ A short, impactful description of your project.
 <div align="center">
 
 <!-- Main Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsabhaysingh07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8" />
 
 <!-- Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhaysingh07&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8" />
 
 </div>
 
 <div align="center">
 
 <!-- Streak -->
-<img width="60%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
+<img width="60%" src="https://streak-stats.demolab.com?user=itsabhaysingh07&theme=tokyonight&hide_border=true&background=00000000&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
 
 </div>
 
@@ -155,17 +155,13 @@ A short, impactful description of your project.
 
 <!-- ================= TROPHIES ================= -->
 
-## 📈 Contributions
+## 🎧 Currently Vibing
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsabhaysingh07&theme=tokyo-night&bg_color=00000000&hide_border=true" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=https://open.spotify.com/user/31t2zry3ztwuhc62jf7dzhl24ssa?si=70131bba4c6f402a&cover_image=true&theme=novatorem&bar_color=60A5FA&bar_color_cover=false" />
 
 </div>
-
-<!-- =========================
-     ACHIEVEMENTS
-========================= -->
 
 ## 🏅 Leadership & Experience
 
